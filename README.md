@@ -12,6 +12,7 @@ This VPS provides a 2.5Gbps bandwidth with direct connections to major networks 
 
 ## Coupon Code
 Use the coupon code `BWHCCNCXVV` for special discounts. 
+
 [Click to see the latest promotions on the official website of BandwagonHost](https://bwh89.net/aff.php?aff=74585)
 
 ## Promotions
